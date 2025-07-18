@@ -15,8 +15,8 @@
 
 3. **Add Google Drive API**
    - A popup window will appear titled "Add a service"
-   - Scroll down or search for **"Google Drive API"**
-   - Click on **"Google Drive API"**
+   - Scroll down or search for **"Drive API"** (this is the Google Drive API)
+   - Click on **"Drive API"**
    - Click the **"Add"** button
 
 4. **Verify it's added**
@@ -95,7 +95,7 @@ function testDriveAPI() {
 - Check if you're logged into the correct Google account
 
 ### "Drive API" not in the list?
-- Make sure you're searching correctly (try just "Drive")
+   - Make sure you're searching for "Drive API" (not "Google Drive API")
 - Refresh the page and try again
 - Check your internet connection
 
